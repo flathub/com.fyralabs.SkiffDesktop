@@ -36,8 +36,8 @@
         {
           "type": "git",
           "url": "https://github.com/FyraLabs/skiff-desktop.git",
-          "tag": "0.1.5",
-          "commit": "340d03d89c7feca05a8c4540fd05aa754fd8abae"
+          "tag": "0.1.6",
+          "commit": "305415fbefe50a7883963278d7d917636f51823f"
         }
       ],
       "modules": [
@@ -93,8 +93,8 @@
             {
               "type": "git",
               "url": "https://github.com/tau-OS/libhelium.git",
-              "tag": "1.8.1",
-              "commit": "89776937785b2cba48cc884c64b841f623f0be17"
+              "tag": "1.8.2",
+              "commit": "e94a1a10a23dedbecb4b73d1e2904fca73604195"
             }
           ]
         },
