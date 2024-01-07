@@ -36,7 +36,7 @@
         {
           "type": "git",
           "url": "https://github.com/FyraLabs/skiff-desktop.git",
-          "tag": "0.1.6",
+          "tag": "0.1.7",
           "commit": "305415fbefe50a7883963278d7d917636f51823f"
         }
       ],
