@@ -37,7 +37,7 @@
           "type": "git",
           "url": "https://github.com/FyraLabs/skiff-desktop.git",
           "tag": "0.1.7",
-          "commit": "305415fbefe50a7883963278d7d917636f51823f"
+          "commit": "d8fe41922a2605964d295b5a1356f05f17f5e5ad"
         }
       ],
       "modules": [
